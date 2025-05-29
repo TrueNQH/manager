@@ -1,0 +1,8 @@
+flask==2.0.1
+flask-cors==3.0.10
+flask-jwt-extended==4.3.1
+mysql-connector-python==8.0.26
+passlib==1.7.4
+pillow==9.0.0
+requests==2.26.0
+matplotlib==3.4.3 
